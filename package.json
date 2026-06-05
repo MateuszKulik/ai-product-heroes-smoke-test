@@ -1,0 +1,7 @@
+{
+  "name": "ai-product-heroes-fake-door",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/inject-env.js"
+  }
+}
