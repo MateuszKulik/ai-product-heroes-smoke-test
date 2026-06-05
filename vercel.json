@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "framework": null
+  "framework": null,
+  "buildCommand": "node scripts/inject-env.js",
+  "outputDirectory": "public"
 }
